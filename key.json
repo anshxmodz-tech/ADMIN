@@ -18,9 +18,7 @@
     "updateRequired": false,
     "updateUrl": "https://t.me/Anshxmodzyt"
   },
-  "BannedHWIDs": {
-    "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
-  },
+  "BannedHWIDs": {},
   "Keys": {
     "TEMP-MAIL": {
       "hwid": "RESET",
