@@ -15,7 +15,7 @@
     ],
     "title": "ANSH CONFIG!",
     "updateMsg": "New version available! Please update.",
-    "updateRequired": true,
+    "updateRequired": false,
     "updateUrl": "https://t.me/Anshxmodzyt"
   },
   "BannedHWIDs": {},
