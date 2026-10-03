@@ -19,13 +19,5 @@
     "updateUrl": "https://t.me/Anshxmodzyt"
   },
   "BannedHWIDs": {},
-  "Keys": {
-    "TEMP-MAIL": {
-      "hwid": "RESET",
-      "expireDate": "2026-10-04",
-      "isBanned": true,
-      "banReason": "LUADA CHAAT",
-      "userRank": "Supreme User"
-    }
-  }
+  "Keys": {}
 }
