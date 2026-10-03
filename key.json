@@ -23,8 +23,8 @@
     "TEMP-MAIL": {
       "hwid": "RESET",
       "expireDate": "2026-10-04",
-      "isBanned": false,
-      "banReason": "",
+      "isBanned": true,
+      "banReason": "LUADA CHAAT",
       "userRank": "Supreme User"
     }
   }
