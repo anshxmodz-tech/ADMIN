@@ -26,6 +26,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "ANSH-24HR": {
+      "hwid": "RESET",
+      "expireDate": "2026-10-06",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
